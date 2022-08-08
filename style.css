@@ -1,3 +1,20 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+.shahriyor1{
+    background-image: url("https://imgs.search.brave.com/fSeosg6KGz1zIIzelSFN6acu7uNfCjQ5pfDi4tXKPy0/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC42/MnhSWExQak9wU3Zp/aWgyb0tMaE9RSGFF/SyZwaWQ9QXBp");
+}
+.shahriyorh4{
+    color: white;
+}
+.shahriyor_img{
+    width: 30%;
+    justify-content: center;
+    margin-left: 70%;
+    margin-top: -15%;
+}
 /* navbar */
 *{
     margin: 0px;
@@ -137,3 +154,4 @@ height: 360px;
 /* Shahriyor */
 
 /* Shahriyor */
+
