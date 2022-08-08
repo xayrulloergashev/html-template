@@ -70,6 +70,51 @@
 /*  header */
 
 /* Muhammadg'ziy */
+.m1{
+    width: 400px;
+    height: 350px;
+    border:1px solid black;
+    border-radius: 10px;
+    margin-left: 10px;
+    line-height: 2;
+    margin-left: 250px;
+    display: flex;
+
+
+}
+.rasmM1{
+    background-image: url("https://html5css.ru/css/img_lights.jpg");
+    width: 400px;
+    height: 360px;
+    margin-top: -20px;
+    border-radius: 10px;
+    border:1px solid black;
+    
+}
+.rasmM2{
+    background-image: url("https://mobirise.com/bootstrap-gallery/assets/images/bootstrap-image-gallery919x643-160-1400x979-28.jpg");
+    width: 400px;
+    height: 350px;
+    background-repeat: no-repeat;
+    
+    background-size: 130%;
+    border-radius: 10px;
+    border:1px solid black;
+    margin-left: 40px;
+
+}
+
+.m5{
+    border: 1px solid black;
+}
+
+.m2{
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-left: 40px;
+margin-top: -1px;
+height: 360px;
+}
 
 /* Muhammadg'ziy */
 
