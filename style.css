@@ -74,7 +74,19 @@
 /* Muhammadg'ziy */
 
 /* Iqrorjon */
-
+.img_card{
+    display: flex;
+    grid-template-columns: auto auto auto auto;
+    justify-content: center;
+    
+}
+.img_card img{
+    width: 300px;
+    height: 200px;
+}
+.img_card p{
+    width: 80%;
+}
 /* Iqrorjon */
 
 /* Shahriyor */
