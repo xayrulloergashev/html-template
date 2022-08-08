@@ -13,13 +13,16 @@
 /* Iqrorjon */
 .img_card{
     display: flex;
-    align-items: center;
+    grid-template-columns: auto auto auto auto;
     justify-content: center;
     
 }
 .img_card img{
-    width: 330px;
+    width: 300px;
     height: 200px;
+}
+.img_card p{
+    width: 80%;
 }
 /* Iqrorjon */
 
