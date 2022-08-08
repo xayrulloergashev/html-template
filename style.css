@@ -33,6 +33,39 @@
 /* !===navbar */
 
 /*  header */
+.headerdiv {
+    width: 320px;
+    height: 180px;
+    border: 1px solid aqua;
+    box-shadow: 1px 1px 1px aqua;
+    border-radius: 10px;
+    margin-left: 10px;
+    text-align: center;
+}
+
+.hearderbig {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.headerp1 {
+    color: blue;
+    font-size: 20px;
+}
+
+.headerpb {
+    border: 1px solid black;
+    background-color: white;
+    font-size: 18px;
+}
+
+.headerpb:hover {
+    border: 1px solid red;
+    background-color: black;
+    color: white;
+}
 
 /*  header */
 
